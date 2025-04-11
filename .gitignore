@@ -3,3 +3,6 @@ node_modules
 
 # package lock
 *.lock
+
+# Env
+# *.env* // should be secret, allow once for test
